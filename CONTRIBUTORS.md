@@ -2430,7 +2430,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Devashish Roy Chowdhury](https://github.com/devashishroychowdhury/hacktoberfest)
+#### Name: [Devashish Roy Chowdhury](https://github.com/devashishroychowdhury)
 - Place: Bangalore, Karnataka
 - Bio: Student in Garden City University, Bangalore
-- Github: [Devashish Roy Chowdhury](https://github.com/devashishroychowdhury/hacktoberfest)
+- Github: [Devashish Roy Chowdhury](https://github.com/devashishroychowdhury)
