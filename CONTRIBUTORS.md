@@ -23,6 +23,8 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
@@ -2427,3 +2429,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Devashish Roy Chowdhury](https://github.com/devashishroychowdhury/hacktoberfest)
+- Place: Bangalore, Karnataka
+- Bio: Student in Garden City University, Bangalore
+- Github: [Devashish Roy Chowdhury](https://github.com/devashishroychowdhury/hacktoberfest)
